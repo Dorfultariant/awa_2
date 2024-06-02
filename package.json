@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Weekly task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "keywords": [
+    "hello_world"
+  ],
+  "author": "TH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
